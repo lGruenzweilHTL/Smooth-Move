@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 18449724}
   - component: {fileID: 18449723}
   - component: {fileID: 18449722}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -810,7 +810,7 @@ GameObject:
   - component: {fileID: 111617305}
   - component: {fileID: 111617304}
   - component: {fileID: 111617303}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1163,7 +1163,7 @@ GameObject:
   - component: {fileID: 190746121}
   - component: {fileID: 190746120}
   - component: {fileID: 190746119}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3116,7 +3116,7 @@ GameObject:
   - component: {fileID: 469772303}
   - component: {fileID: 469772302}
   - component: {fileID: 469772301}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4042,7 +4042,7 @@ GameObject:
   - component: {fileID: 528696751}
   - component: {fileID: 528696750}
   - component: {fileID: 528696749}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4395,7 +4395,7 @@ GameObject:
   - component: {fileID: 530994752}
   - component: {fileID: 530994751}
   - component: {fileID: 530994750}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4748,7 +4748,7 @@ GameObject:
   - component: {fileID: 537738709}
   - component: {fileID: 537738708}
   - component: {fileID: 537738707}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5431,7 +5431,7 @@ GameObject:
   - component: {fileID: 587967571}
   - component: {fileID: 587967570}
   - component: {fileID: 587967569}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5889,8 +5889,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 682839893}
-  m_Layer: 0
-  m_Name: Scene
+  m_Layer: 3
+  m_Name: GroundItems
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6037,7 +6037,7 @@ GameObject:
   - component: {fileID: 760422354}
   - component: {fileID: 760422353}
   - component: {fileID: 760422352}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10196,7 +10196,7 @@ GameObject:
   - component: {fileID: 819623594}
   - component: {fileID: 819623593}
   - component: {fileID: 819623592}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PolyShape
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11227,7 +11227,7 @@ GameObject:
   - component: {fileID: 955017926}
   - component: {fileID: 955017925}
   - component: {fileID: 955017924}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Arch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12535,7 +12535,7 @@ GameObject:
   - component: {fileID: 1111354710}
   - component: {fileID: 1111354709}
   - component: {fileID: 1111354708}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13616,7 +13616,7 @@ GameObject:
   - component: {fileID: 1494460048}
   - component: {fileID: 1494460047}
   - component: {fileID: 1494460046}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14044,7 +14044,7 @@ GameObject:
   - component: {fileID: 1547187753}
   - component: {fileID: 1547187752}
   - component: {fileID: 1547187751}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16047,7 +16047,7 @@ GameObject:
   - component: {fileID: 1555002010}
   - component: {fileID: 1555002009}
   - component: {fileID: 1555002008}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16400,7 +16400,7 @@ GameObject:
   - component: {fileID: 1619650715}
   - component: {fileID: 1619650714}
   - component: {fileID: 1619650713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50495,7 +50495,7 @@ GameObject:
   - component: {fileID: 1625532423}
   - component: {fileID: 1625532422}
   - component: {fileID: 1625532421}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51421,7 +51421,7 @@ MonoBehaviour:
   orientation: {fileID: 459131420}
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 8
   sensitivity: 75
   moveSpeed: 1250
   maxSpeed: 20
@@ -51640,7 +51640,7 @@ GameObject:
   - component: {fileID: 2062011201}
   - component: {fileID: 2062011200}
   - component: {fileID: 2062011199}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
