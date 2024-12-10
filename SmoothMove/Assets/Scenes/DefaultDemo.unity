@@ -301,7 +301,7 @@ GameObject:
   - component: {fileID: 125584262}
   - component: {fileID: 125584261}
   - component: {fileID: 125584260}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -599,7 +599,7 @@ GameObject:
   - component: {fileID: 161181900}
   - component: {fileID: 161181899}
   - component: {fileID: 161181898}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Prism
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -894,12 +894,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 161181897}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 7.7412124, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 356369311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &230520045
 GameObject:
@@ -915,7 +915,7 @@ GameObject:
   - component: {fileID: 230520049}
   - component: {fileID: 230520048}
   - component: {fileID: 230520047}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6507,7 +6507,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 356369311}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Scene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6533,6 +6533,9 @@ Transform:
   - {fileID: 597507209}
   - {fileID: 1014501899}
   - {fileID: 230520046}
+  - {fileID: 1692628918}
+  - {fileID: 1002170249}
+  - {fileID: 161181903}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &494707547
@@ -6879,7 +6882,7 @@ GameObject:
   - component: {fileID: 597507212}
   - component: {fileID: 597507211}
   - component: {fileID: 597507210}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10089,7 +10092,7 @@ GameObject:
   - component: {fileID: 1002170246}
   - component: {fileID: 1002170245}
   - component: {fileID: 1002170244}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10742,12 +10745,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1002170243}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -9, y: 3.75, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 356369311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1014501898
 GameObject:
@@ -10763,7 +10766,7 @@ GameObject:
   - component: {fileID: 1014501902}
   - component: {fileID: 1014501901}
   - component: {fileID: 1014501900}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14865,7 +14868,7 @@ GameObject:
   - component: {fileID: 1372046384}
   - component: {fileID: 1372046383}
   - component: {fileID: 1372046382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16784,7 +16787,7 @@ GameObject:
   - component: {fileID: 1464837380}
   - component: {fileID: 1464837379}
   - component: {fileID: 1464837378}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17982,7 +17985,7 @@ GameObject:
   - component: {fileID: 1692628915}
   - component: {fileID: 1692628914}
   - component: {fileID: 1692628913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Arch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18799,12 +18802,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1692628912}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 1.5, z: -9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 356369311}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1890861107
 GameObject:
@@ -18993,6 +18996,3 @@ SceneRoots:
   - {fileID: 1941372194}
   - {fileID: 1890861110}
   - {fileID: 356369311}
-  - {fileID: 1692628918}
-  - {fileID: 1002170249}
-  - {fileID: 161181903}
